@@ -19,3 +19,7 @@ To change the movies shown in the webpage, open the `trailer_website.py` file an
 - Movie trailer url
 
 When you're done editing, just save and run!
+
+## Licesne
+
+This software is available under th MIT license.
