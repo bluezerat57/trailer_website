@@ -20,6 +20,6 @@ To change the movies shown in the webpage, open the `trailer_website.py` file an
 
 When you're done editing, just save and run!
 
-## Licesne
+## License
 
 This software is available under th MIT license.
